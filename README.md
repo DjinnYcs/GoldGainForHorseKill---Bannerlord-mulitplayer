@@ -1,4 +1,4 @@
-Little mod for getting gold for killing horses under enemy riders in Bannerlord Multiplayer.
+A little mod to getting gold for killing horses under enemy riders in Bannerlord Multiplayer.
 
 The mod works as perk effect.
 In mpclassdivisions.xml file just add <Effect type="GoldGainOnHorseKill" value="50" is_disabled_in_warmup="true"/>, where value is gold reward for enemy horse killing.
